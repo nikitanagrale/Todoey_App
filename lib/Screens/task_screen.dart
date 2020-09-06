@@ -38,6 +38,13 @@ class TaskScreen extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
+                Text(
+                  '100 tasks',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 20,
+                  ),
+                )
               ],
             ),
           ),
