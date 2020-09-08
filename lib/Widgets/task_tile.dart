@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todoey_flutter/models/task.dart';
 
 class TaskTile extends StatelessWidget {
   final bool isChecked;
